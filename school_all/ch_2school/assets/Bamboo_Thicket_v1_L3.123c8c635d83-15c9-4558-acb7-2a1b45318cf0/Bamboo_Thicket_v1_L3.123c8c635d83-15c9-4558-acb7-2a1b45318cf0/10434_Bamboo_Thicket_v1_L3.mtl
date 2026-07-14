@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.04.2011 20:20:07
+
+newmtl 10434_Bamboo_Thicket1_v1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 10434_Bamboo_Thicket_v1_Diffuse1.jpg
+	map_Kd 10434_Bamboo_Thicket_v1_Diffuse1.jpg
+
+newmtl 10434_Bamboo_Thicket2_v1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.1350 0.1350 0.1350
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 10434_Bamboo_Thicket_v1_Diffuse2.jpg
+	map_Kd 10434_Bamboo_Thicket_v1_Diffuse2.jpg
